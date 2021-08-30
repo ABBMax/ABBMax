@@ -1,0 +1,40 @@
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.xml
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Form1.resources
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Resources.resources
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.exe
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.xml
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.pdb
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Testbas1.accdb
+c:\users\maxmo\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Form2.resources
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Testbas1.accdb
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\bin\Debug\Test1.xml
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Form2.resources
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.xml
+C:\Users\semamor2\Documents\Visual Studio 2017\Projects\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\bin\Debug\Testbas1.accdb
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\bin\Debug\Test1.xml
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.Form2.resources
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.vbproj.CoreCompileInputs.cache
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.xml
+C:\Users\semamor2.NMEA\OneDrive - ABB\APV iLink\Visual Basic\Projects\Test1\Test1\obj\Debug\Test1.pdb
